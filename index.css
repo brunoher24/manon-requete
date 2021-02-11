@@ -1,0 +1,21 @@
+body {
+  background-color: aqua;
+}
+
+.hp-characters-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+
+.hp-characters-list > li {
+  background-color: white;
+  box-shadow: 1px 1px 6px silver;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.hp-characters-list img {
+  height: 100px;
+}
